@@ -1,0 +1,10 @@
+C:\Users\cryst\source\repos\SpookySZNCalculator\bin\Debug\SpookySZNCalculator.exe.config
+C:\Users\cryst\source\repos\SpookySZNCalculator\bin\Debug\SpookySZNCalculator.exe
+C:\Users\cryst\source\repos\SpookySZNCalculator\bin\Debug\SpookySZNCalculator.pdb
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.csproj.AssemblyReference.cache
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.Form1.resources
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.Properties.Resources.resources
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.csproj.GenerateResource.cache
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.exe
+C:\Users\cryst\source\repos\SpookySZNCalculator\obj\Debug\SpookySZNCalculator.pdb
